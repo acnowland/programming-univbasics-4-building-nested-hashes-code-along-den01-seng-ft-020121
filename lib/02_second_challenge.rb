@@ -9,11 +9,16 @@ def second_challenge
       }, 
     :capulet => {
       #your key/value pairs here!
-      :patriarch => {},
+      :patriarch => {
+        :name => "Lord Montague", 
+        :age => "53"
+      },
       :matriarch => {},
       :heroine => {},
       :heroine_friends => []
-      }}
+      }
+  }
+    
 
   
 end
